@@ -23,5 +23,6 @@ for example:
 python face_tracking.py -i 3
 ````
 
+To try different Haar Cascades replace the *.xml file in the face_tracking.py
 
 
